@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "src": "./run_dir/src",
+      "dest": [
+        "./run_dir/d1",
+        "./run_dir/d2"
+      ]
+    }
+  ]
+}
